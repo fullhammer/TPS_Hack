@@ -8,7 +8,8 @@
 We know we're awesome, but we should still prove it to you.
 
 ```markdown
-Syntax highlighted code block
+`if code == awesome:
+    win_hackathon = True`
 
 # Header 1
 ## Header 2
